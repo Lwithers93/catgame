@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  height: 100vh;
+}
+
+.button {
+  height: 33vh;
+  border: solid;
+  background-color: cyan;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.yellow-bg {
+  background-color: yellow;
+}
